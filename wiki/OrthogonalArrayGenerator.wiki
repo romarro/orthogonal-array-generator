@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#simple generator for Orthogonal Array
 
 = Introduction =
 
@@ -15,8 +15,8 @@ Add your content here.  Format your content with:
     ||  C : 1,2     ||
 
    
-  # simple Model only
-  # Conditional Constraint is not supported.
+    # simple Model only
+    # Conditional Constraint is not supported.
    
  
  * CUI tool (command line only)
