@@ -2,12 +2,19 @@
 
 = Introduction =
 
-Add your content here.
+  * simple generator for Orthogonal Array
 
+= Introduction (紹介) =
+
+  * コマンドラインで動作する，シンプルな直交表生成ツール
 
 = Details =
 
 Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
+  * PICT style parameter 
+     A : 1,2,3,4
+     B : 1,2
+     C : 1,2
+
+  * CUI tool (command line only)
   * Automatic links to other wiki pages
