@@ -2,28 +2,28 @@
 
 = Introduction =
 
-* simple generator for Orthogonal Array
+ * simple generator for Orthogonal Array
 
 
 = Details =
 
 Add your content here.  Format your content with:
-* PICT style parameter 
+ * PICT style parameter 
 
-     A : 1,2,3,4 ~
-     B : 1,2 ~
-     C : 1,2 ~
+    ||  A : 1,2,3,4 ||
+    ||  B : 1,2     ||
+    ||  C : 1,2     ||
 
    
   # simple Model only
   # Conditional Constraint is not supported.
    
  
-* CUI tool (command line only)
+ * CUI tool (command line only)
   
 
 
 = Project time line =
-  * May 30, 2011   L4,L8,L16,L32,L64, ... (level=2\*\*n only)
-  * Aug 31, 2011   L9,L18, ... (3**n)
-  * Dec 31, 2011   very restrictive constraint (I hope)
+ * May 30, 2011   L4,L8,L16,L32,L64, ... (level=2\*\*n only)
+ * Aug 31, 2011   L9,L18, ... (3**n)
+ * Dec 31, 2011   very restrictive constraint (I hope)
