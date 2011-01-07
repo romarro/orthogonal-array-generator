@@ -10,12 +10,17 @@
 Add your content here.  Format your content with:
   * PICT style parameter 
      A : 1,2,3,4
+
+
      B : 1,2
+
+
      C : 1,2
-   {{{
-   simple Model only
-   Conditional Constraint is not supported.
-   }}}
+
+   
+   *simple Model only
+   *Conditional Constraint is not supported.
+   
  
   * CUI tool (command line only)
   
