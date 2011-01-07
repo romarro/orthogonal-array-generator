@@ -1,13 +1,7 @@
-#simple generator for Orthogonal Array
+simple generator for Orthogonal Array
 
 = Introduction =
 
- * simple generator for Orthogonal Array
-
-
-= Details =
-
-Add your content here.  Format your content with:
  * PICT style parameter 
 
     ||  A : 1,2,3,4 ||
@@ -21,6 +15,7 @@ Add your content here.  Format your content with:
  
  * CUI tool (command line only)
   
+= Details =
 
 
 = Project time line =
