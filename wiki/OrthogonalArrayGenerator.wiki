@@ -17,8 +17,8 @@ Add your content here.  Format your content with:
      C : 1,2
 
    
-   *simple Model only
-   *Conditional Constraint is not supported.
+   * simple Model only
+   * Conditional Constraint is not supported.
    
  
   * CUI tool (command line only)
@@ -26,6 +26,6 @@ Add your content here.  Format your content with:
 
 
 = Project time line =
-  * May 30, 2011   L4,L8,L16,L32,L64, ... (level=2**n only)
+  * May 30, 2011   L4,L8,L16,L32,L64, ... (level=2\*\*n only)
   * Aug 31, 2011   L9,L18, ... (3**n)
   * Dec 31, 2011   very restrictive constraint (I hope)
