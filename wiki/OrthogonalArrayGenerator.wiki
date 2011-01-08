@@ -2,6 +2,10 @@ simple generator for Orthogonal Array
 
 = Introduction =
 
+ * CUI tool (command line only)
+   OrthogonalArrayGenerator.exe  ModelFile.txt
+
+   
  * PICT style parameter 
 
     ||  A : 1,2,3,4 ||
@@ -11,8 +15,8 @@ simple generator for Orthogonal Array
   # simple Model only
   # Conditional Constraint is not supported.
    
- 
- * CUI tool (command line only)
+ * 
+
   
 = Details =
  * not yet
