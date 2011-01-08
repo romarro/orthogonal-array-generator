@@ -4,6 +4,7 @@ simple generator for Orthogonal Array
 
  * CUI tool (command line only)
    Windows : OrthogonalArrayGenerator.exe  ModelFile.txt
+
    Linux : OrthogonalArrayGenerator  ModelFile.txt
    
  * PICT style parameter 
