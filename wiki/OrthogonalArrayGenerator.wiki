@@ -31,5 +31,5 @@ simple generator for Orthogonal Array
  * Dec 31, 2011   very restrictive constraint 
 
 = comment(Jp) =
- * 今年はかなり忙しそうなのに本当にできるんかい。
+ * 今年(2011)はかなり忙しそうなのに本当にできるんかい。
  * 途中で挫折したら，プロジェクト削除する。
