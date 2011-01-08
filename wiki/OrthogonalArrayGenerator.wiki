@@ -17,7 +17,6 @@ simple generator for Orthogonal Array
   # simple Model only
   # Conditional Constraint is not supported.
    
- * 
 
   
 = Details =
