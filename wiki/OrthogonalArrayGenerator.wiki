@@ -3,8 +3,8 @@ simple generator for Orthogonal Array
 = Introduction =
 
  * CUI tool (command line only)
-   OrthogonalArrayGenerator.exe  ModelFile.txt
-
+   Windows : OrthogonalArrayGenerator.exe  ModelFile.txt
+   Linux : OrthogonalArrayGenerator  ModelFile.txt
    
  * PICT style parameter 
 
