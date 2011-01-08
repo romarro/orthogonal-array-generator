@@ -30,6 +30,6 @@ simple generator for Orthogonal Array
  * Aug 31, 2011   L9,L18, ... (three-level factors)
  * Dec 31, 2011   very restrictive constraint 
 
-= Project time line(Jp) =
+= comment(Jp) =
  * 今年はかなり忙しそうなのに本当にできるんかい。
  * 途中で挫折したら，プロジェクト削除する。
