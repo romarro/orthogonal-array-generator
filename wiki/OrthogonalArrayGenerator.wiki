@@ -18,6 +18,6 @@ simple generator for Orthogonal Array
  * not yet
 
 = Project time line =
- * May 30, 2011   L4,L8,L16,L32,L64, ... (level=2\*\*n only)
- * Aug 31, 2011   L9,L18, ... (3**n)
- * Dec 31, 2011   very restrictive constraint (I hope)
+ * May 30, 2011   L4,L8,L16,L32,L64, ... (two-level factors)
+ * Aug 31, 2011   L9,L18, ... (three-level factors)
+ * Dec 31, 2011   very restrictive constraint 
